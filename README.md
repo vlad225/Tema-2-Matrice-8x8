@@ -5,9 +5,9 @@ a.Intentionez sa fac un joc in care controlezi o nava spatiala ce merge in fata 
 
 b.1. Va trebui sa fie apasat un buton pentru a incepe jocul
 
-	2. La sfarsit se arata scorul, informatia dispare dupa o apasare de buton, jocul reincepe dupa alta apasare de buton.
+2. La sfarsit se arata scorul, informatia dispare dupa o apasare de buton, jocul reincepe dupa alta apasare de buton.
         
-	3. va avea scor si vieti
+3. va avea scor si vieti
         
   4. dificultatea o sa creasca linear
   
